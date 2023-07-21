@@ -1,0 +1,49 @@
+.logo{
+    width: 50%;
+    margin: auto;
+}
+.main{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+h2{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+a{
+    font-size: 20pt;
+    margin-left: 20px;
+    text-decoration: none;
+    color: rgb(50, 31, 226);
+}
+.question{
+    width: 60%;
+    margin: auto;
+    margin-top: 80px;
+}
+.question img{
+    width: 80%;
+    margin: auto;
+}
+.a{
+    text-align: center;
+    font-size: 27pt;
+    color: rgb(3, 84, 205);
+}
+.b{
+    text-align: center;
+    font-size: 22pt;
+}
+p{
+    font-size: 18pt;
+}
+.ket{
+    text-align: center;
+}
+.other{
+    width: 60%;
+    height: 200px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
