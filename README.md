@@ -1,5 +1,6 @@
-# Đây là một môn học mô phỏng dự án nhỏ về quản lý thui.
+# Hostel Management App
 
-- Đây chỉ là dự án mẫu do mình tập tành code thôi nên có nhiều chỗ chưa được chỉnh chu.
+- Because this is just a small sample project for practice, there are many places that have not been adjusted or repaired.
 
-- Sẽ update...
+- Language: Java (JavaSwing) (jdbc)
+- Database: SQL Server
